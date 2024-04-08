@@ -6,6 +6,13 @@
 
 ## 사용 방법
 
+# 제목 1
+## 제목 2
+### 제목 3
+#### 제목 4
+##### 제목 5
+###### 제목 6
+
 1. 순서가 있는 목록
 2. 순서가 있는 목록
 3. 순서가 있는 목록
@@ -30,4 +37,4 @@ console.log("코드를 표시");
 
 [링크를 표시](https://www.google.com)
 
-![이미지를 표시](https://pixabay.com/ko/vectors/github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A1%9C%EA%B3%A0-6980894/)
+![이미지를 표시](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png)
