@@ -2,9 +2,9 @@
 
 ## About Markdown
 
-마크다운은 간단하고 가독성이 좋은 문서 형식으로 변환해주는 기술
+마크다운은 간단하고 가독성이 좋은 문서 형식으로 변환해주는 기술이다.
 
-## 사용 방법
+## 사용법
 
 # 제목 1
 ## 제목 2
@@ -27,6 +27,9 @@
 
 글자에 ~~취소선~~ 표시
 
+구분선 표시
+---
+
 ```javascript
 console.log("코드를 표시");
 ```
@@ -38,5 +41,4 @@ console.log("코드를 표시");
 [링크를 표시](https://www.google.com)
 
 이미지를 표시
-![이미지를 표시](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png)
 <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="400">
